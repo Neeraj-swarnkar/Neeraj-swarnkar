@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neeraj-swarnkar
-- 👀 I’m interested in javascript, react, angular, html5, css etc
-- 🌱 I’m currently learning front end
+- 👀 I’m interested in javascript, typescript, react, angular, html5, css, node etc
+- 🌱 I’m currently contributing on webex
 
 
 <!---
